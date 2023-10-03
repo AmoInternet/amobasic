@@ -2,4 +2,9 @@
 
 Link feito para acesso remoto aos serviços de Redes Sociais, aplicativos, coberturas entre outros 
 
-![image](https://github.com/MarceloMoraes1991/linkamointernet/assets/93011128/0e8c87e2-4373-471b-9d10-cb6e056b9df1)
+![image](https://github.com/AmoInternet/amobasic/assets/146347843/31083d56-0f51-4b49-9509-77dc9af8e762)
+
+
+Para Mobile
+
+![image](https://github.com/AmoInternet/amobasic/assets/146347843/3931c0df-7db5-4319-84a4-9fdda88df890)
